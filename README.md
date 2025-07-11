@@ -46,7 +46,7 @@ Construir um ambiente de laboratório que simule uma infraestrutura de datacente
 
 ## 🗺️ Topologia do Laboratório
 
-![Topologia](imagens/image (22).png)
+![Topologia](imagens/topologia.png)
 
 ---
 
