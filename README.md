@@ -87,6 +87,8 @@ The goal was to build a complete virtual datacenter lab environment to study and
 
 > ✅ Certification Achieved: **VCP-DCV – VMware Certified Professional - Data Center Virtualization**
 
+![My Setup](imagens/lab.png)
+
 This lab was built as part of my successful preparation for the VCP-DCV certification. The hands-on experience gained through this environment was crucial to mastering the exam objectives, including core datacenter virtualization, vCenter management, vSAN, DRS, HA, FT, and performance optimization.
 
 ---
