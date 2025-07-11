@@ -101,15 +101,14 @@ Systems & Infrastructure Administrator | On-Premises & Clound
 
 ---
 
+## 📌 Observações
+
+Este projeto é de uso educacional e tem como objetivo auxiliar estudantes e profissionais da área de infraestrutura na preparação para exames de certificação, bem como no desenvolvimento de habilidades práticas em ambientes virtualizados corporativos.
+
+---
+
 ## 🙏 Agradecimentos
 
 Este projeto foi inspirado no curso **"Virtualização de servidores com VMware vSphere 7.0"** ministrado por **John Costa**, criador do canal e marca **Expert em TI**.  
 A topologia e os conceitos abordados seguem a estrutura do treinamento, adaptados e personalizados para minha infraestrutura local.  
 🔗 [Canal do Expert em TI no YouTube](https://www.youtube.com/@ExpertemTI)
-
-
----
-
-## 📌 Observações
-
-Este projeto é de uso educacional e tem como objetivo auxiliar estudantes e profissionais da área de infraestrutura na preparação para exames de certificação, bem como no desenvolvimento de habilidades práticas em ambientes virtualizados corporativos.
