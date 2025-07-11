@@ -82,12 +82,6 @@ Construir um ambiente de laboratório que simule uma infraestrutura de datacente
 
 ---
 
-### ✅ Visão Geral do Laboratório Montado
-
-![Lab VMware](imagens/vsphere_lab.png)
-
----
-
 ## 🎓 Certificação Alvo
 
 > ✅ Certificação Concluída: VCP-DCV – VMware Certified Professional - Data Center Virtualization
