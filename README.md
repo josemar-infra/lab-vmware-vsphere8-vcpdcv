@@ -20,7 +20,8 @@ The environment was built using **VMware vSphere 8** and served as a practical p
 The goal was to build a complete virtual datacenter lab environment to study and practice essential features of vSphere 8, including:
 
 - vCenter Server deployment and management  
-- ESXi hosts  
+- ESXi hosts
+- Linux and windows clients VM
 - Virtual networking (vSwitches)  
 - iSCSI storage (HP LUNs via VSA)  
 - Active Directory integration  
