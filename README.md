@@ -1,4 +1,3 @@
-# lab-vmware-vsphere8-vcpdcv
 # Laboratório VMware vSphere 8 para Certificação VCP-DCV 💻 
 
 Este repositório documenta o laboratório completo que desenvolvi como parte da minha preparação para a certificação **VCP-DCV (VMware Certified Professional – Data Center Virtualization)**, já concluída com sucesso.  
