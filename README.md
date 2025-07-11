@@ -74,21 +74,9 @@ Construir um ambiente de laboratório que simule uma infraestrutura de datacente
 
 ---
 
-## 📸 Capturas de Tela
-
 ### ✅ Visão Geral do Laboratório Montado
 
 ![Lab VMware](imagens/vsphere_lab.png)
-
-### ✅ Mapa de Tópicos Estudados
-
-![Mapa Estudo](imagens/mapa_estudo.png)
-
----
-
-## 📄 Documentação
-
-- [Roteiro do Laboratório em PDF](docs/roteiro_lab.pdf)
 
 ---
 
