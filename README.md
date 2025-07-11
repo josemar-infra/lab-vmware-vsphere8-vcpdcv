@@ -20,10 +20,13 @@ O ambiente foi construído com base em **VMware vSphere 8** e serviu como plataf
 Construir um ambiente de laboratório que simule uma infraestrutura de datacenter virtualizado, possibilitando o estudo e prática de recursos essenciais do vSphere 8, incluindo:
 
 - Instalação e gerenciamento do vCenter Server
-- Hosts ESXi e switches virtuais
+- Hosts ESXi
+- Switches virtuais
 - Armazenamento via iSCSI (com LUNs HP configuradas em VSA)
 - Domínio Active Directory integrado ao ambiente vSphere
-- Recursos de alta disponibilidade (HA), tolerância a falhas (FT) e balanceamento (DRS)
+- Recursos de alta disponibilidade (HA)
+- Balanceamento (DRS)
+- Tolerância a falhas (FT)
 - Criação e gerenciamento de VMs
 - vSAN, vMotion e monitoramento de desempenho
 
@@ -46,6 +49,12 @@ Construir um ambiente de laboratório que simule uma infraestrutura de datacente
 ## 🗺️ Topologia do Laboratório
 
 ![Topologia](imagens/topologia.png)
+
+---
+
+## 📄 Documentação
+
+- [Roteiro do Laboratório em PDF](docs/roteiro_lab.pdf)
 
 ---
 
