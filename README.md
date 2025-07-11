@@ -54,7 +54,7 @@ Construir um ambiente de laboratório que simule uma infraestrutura de datacente
 
 ## 📄 Documentação
 
-- [Roteiro do Laboratório em PDF](docs/roteiro_lab.pdf)
+- [Roteiro do Laboratório em PDF](docs/documentacao.pdf)
 
 ---
 
